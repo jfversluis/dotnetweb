@@ -15,6 +15,7 @@ namespace dotnetweb.Pages
         public string[] Messages {
             get {
                 return new string[] {
+                    "Hello SDN Cast",
                     "Hello, World!",
                     "Would you like a Cup<T>?",
                     ".NET all the things!",
